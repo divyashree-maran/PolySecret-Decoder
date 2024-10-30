@@ -18,9 +18,9 @@ This project decodes a secret constant term from a polynomial using Lagrange int
 1. **Install a C++ Compiler**
    - Make sure you have a C++ compiler like g++ installed.
 
-2. **Prepare the Input File **
+2. **Prepare the Input File** 
    - Ensure you have an `input.json` file in the folder.
-   - 
+  
 3. **compile the code**
    
 4. **Run the Program**
